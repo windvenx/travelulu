@@ -1,0 +1,30 @@
+@media (max-width:470px) {
+    .container{
+        max-width: 420px;
+    }
+
+    
+    .use{
+        display: block;
+        width: 356px;
+    }
+
+    .use h3{
+        width: 356px;
+        font-size: 32px;
+    }
+
+    .use p{
+        width: 358px;
+        font-size: 16px;
+    }
+
+    .box__card{
+        display: block;
+    }
+
+    .card{
+        width: 400px;
+        margin-bottom: 36px;
+    }
+}
